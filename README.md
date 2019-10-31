@@ -4,11 +4,13 @@
 
 -----
 
-## 警告
+## 来源声明
 
-> 区块链作为金融互联网新技术，不可避免地会涉及到投资和投机 —— 而对绝大多数普通人来说：
+> 本文来源于 [https://blockchainlittlebook.com](https://blockchainlittlebook.com)
+> 
+> [MYKEY Lab](https://mykey.org)删除了原文中涉及到「Mixin」「Mixin Network」「Hengxin Network」的软广, 并增加了BIHU和MYKEY的硬广:)
 >
-> > **投资有风险，决策需谨慎！**
+
 
 ## 前言
 
@@ -67,7 +69,8 @@
 
 这首先因为人是社交动物，然而更为重要的是，交流这个东西，随意的交流总是比刻意的交流更为有效 —— 因为随意的交流总是刻意解决那些连你自己都没意识到的问题…… 可偏偏，这些你自己意识不到的问题恰恰是最重要甚至最关键的问题。如果不借助这种群智的力量，很难想象还有什么办法可以解决这种隐秘的关键问题。
 
-在 [Mixin Messenger](https://mixin.one/messenger) 上，有一个群，群号是 *7000102093*，里面有一万多人 —— 可能是目前国内最优质的小白社群。群里定期有公开课，并且定期会开放聊天机会…… 在那里，你可以向别人提问，也可以观察他人之间的讨论，很多你弄不明白的问题，可能一不小心就彻底被他人的对话解决掉了。
+[币乎](https://bihu.com) 是国内最大最优质的区块链社区平台，为广大区块链爱好者提供各种区块链的资讯和内容，里面有很多高认知活跃的KOL能够帮助对区块链感兴趣的朋友成长，学习知识。
+
 
 ## 比特币
 
@@ -192,32 +195,13 @@
 
 > 若是真的有谁能够操纵 51% 的算力，那么他会发现，对他来说，“贡献” 远比 “攻击” 更有利可图。
 
-### 9. 小白如何购买比特币
+### 9. 小白如何进入区块链世界
 
-目前世界上对小白最友好的多币种钱包是 [Mixin Messenger](https://mixin.one/messenger)，它不仅支持你所能听说过的绝大多数数字资产收发与存储，并且使用极为方便。
+首先，小白进入区块链世界千万不要一来就盲目的买币，哪怕是比特币。在买币之前你应该相对明确的了解这个币是用来做什么的，为什么有价值，要对自己的钱负责。
 
-Mixin 下载方式：
+推荐小白可以持续不断的深耕[币乎](https://bihu.com)，来这里学习区块链的知识，了解各种项目方的信息，用知识来增强自己判断有价值币种和项目的能力。
 
-> * iOS
->   * 国内用户，在 iTunes [下载 Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019)
->   * 国外用户，在 iTunes [下载 Mixin Messenger](https://apps.apple.com/app/mixin/id1322324266)
-> * Android
->   * 国内用户，在[腾讯应用宝下载](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[小米应用商店下载](http://app.mi.com/details?id=one.mixin.messenger)
->   * 国外用户，在 [Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
-
-iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
-
-![](images/miniwallet.png)
-
-在 Mixin 里提供 OTC 服务的是 exin，机器人 ID：7000101276。
-
-你也可以到 [https://big.one](https://big.one) 或者 [https://b1.run](https://b1.run)，这是国内老牌交易所云币团队打造的有信誉保障的区块链数字资产交易所，可以使用 USDT 购买比特币，它也有 [OTC 服务](https://otc.b1.run/trade)。另外，Big.One 的 Mixin 大群 ID 是：*7000101910*。
-
-再次需要提醒风险：
-
-> 区块链数字资产价格波动巨大，**投资有风险，决策需谨慎！**
-
-另外，对小白来说最靠谱的投资策略是**定投策略** —— 至于具体应该如何操作，请移步[《定投改变命运》（开源第三版）](https://onregularinvesting.com)。
+如果想体验区块链的应用，建议下载[MYKEY钱包](https://mykey.org),这也许是这个世界上门槛最低的多链钱包，在这里你可以像互联网产品那样去使用区块链应用，保管数字资产，且不用担心钱包的丢失。
 
 ## 区块链
 
@@ -275,13 +259,6 @@ dPoS（[Delegated Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake#D
 
 你看，几乎所有的政务部门都需要不可篡改的数据库技术，可是，你不能让这些部门为了使用区块链技术而天天 “挖矿” 吧？关键矛盾在于，公共事务领域反正不是也不应该是靠利益刺激运行的。
 
-看来，在一些场景下，有必要去掉奖励机制 —— 可如何做到呢？冯晓东设计的 Mixin Network 提供了一个解决方案 —— 它的非商业非营利版叫作**恒信网络**（HengXin Network）。
-
-恒信网络是世界上第一个已被证明为可行的**无币区块链解决方案**。
-
-恒信网络通过使用 TEE（Trusted Execution Environment，可信执行环境）生成了一个由中心化管理渐进为去中心化管理的可以无需奖励机制的分布式网络。除了 TEE 之外，恒信还结合了 DAG（Directed Acyclic Graph，有向无环图）为基础，辅以 ABFT（Asynchronous Byzantine Fault Tolerance，异步拜占庭容错）算法作为解决方案，构造了一个成本低廉，易维护、易使用，性能高，兼容性强的不可篡改的分布式网络。
-
-TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_execution_environment)，可信执行环境）的作用是，向公众证明网络中某个节点（或称服务器） “正在运行的代码” 的确是 “它声称正在运行的代码”。简单来说，你可以把具备可信执行环境的服务器理解为一个透明盒子，外部可以 “看到” 它内部正在运行的代码 —— 换言之，没有任何人能够在不被察觉的情况下改变这个透明盒子里正在运行的代码。
 
 网络设计者可以自己在网络上部署一定数量的“透明盒子”，如此这般构成一个 “类自治” 的分布式网络 —— 这个时候，这个网络虽然已然是分布式网络，但依然是中心化治理的，因为那些透明盒子是网络设计者自己部署的。
 
@@ -291,7 +268,6 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 加入者越多，网络越棒，安全性也会因此越来越高。当网络的节点达到一定数量之后，网络设计者可以撤掉自己当初部署的节点，把整个分布式网络全部交由自由加入的节点管理…… 至此，一个自治的、非中心化管理的分布式网络终于形成。
 
-恒信网络的商业版，Mixin Network 于 2019 年 2 月主网正式上线，迄今为止（2019 年 11 月）性能稳定；已无故障运行 9 个月。
 
 #### a. 支持大规模高并发
 
@@ -313,11 +289,8 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 数字资产的钱包，每条公链都不一样，直接导致的结果就是小白们压根弄不明白到底应该用哪个，怎么用？所以，根据过往历史数据来看，绝大多数小白会直接把交易所当作钱包使用。小白们把钱充进交易所，而后买到各种他们想要买的币，而后就存在交易所 —— 因为提出去之后存在哪里呢？顶多，提到其它交易所……
 
-把交易所当作钱包用也不是不行，但，这里面的风险在于，绝大多数交易所做不到像当年的云币那样，从未出现过丢币的安全事故。交易所有真实丢币的，也有监守自盗的…… 所以，真不是随便哪一个交易所都可以当作钱包使用的。[BigOne](https://b1.run) 倒是可以无负担推荐，因为它的确靠谱。
+把交易所当作钱包用也不是不行，但，这里面的风险在于，绝大多数交易所做不到像当年的云币那样，从未出现过丢币的安全事故。交易所有真实丢币的，也有监守自盗的…… 所以，真不是随便哪一个交易所都可以当作钱包使用的。
 
-经过多年的发展，区块链世界里的交易所也有了一定的创新，比如，链上交易所，[FoxOne](https://fox.one/)，一切交易都发生在链上，运营方没有作假的可能…… 关键在于，把这个交易所当作钱包使用，是没有负担的，因为按照他们的机制运营方无法动用用户的币。
-
-对小白来说，最为友好也最为安全方便的多币种钱包是 Mixin Messenger，在之前的章节中已经介绍过。
 
 事实上，最关键的地方在于密码管理。在这件事儿上不要省钱，一定要使用付费服务，比如，我使用的密码管理软件是 [1Password](https://1password.com)。还要养成一个重要的习惯：
 
@@ -367,72 +340,3 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 > 1. 不要只做期货；
 > 2. 选择靠谱的不作恶的交易所，比如 [BTCMEX](https://www.btcmex.com/)……
 
-
-
------
-
-## 关于本书
-
-本书不是技术书籍，它很短，它就是想尽量用最简单的方式给小白讲清楚区块链的 “最少必要知识”。
-
-本书内容保存在 [github](https://github.com/xiaolai/blockchainlittlebook.com) 上，点击右上角那个小猫的图标，就可以转至该项目的仓库。
-
-本书完全开源，没有任何协议，你可以任意修改，任意发布 —— 只不过，希望你注意以下两点：
-
-> * 保留原文出处，加上原站链接：https://blockchainlittlebook.com
-> * 如若做出了修改，最好在保留原文的情况下，加上醒目的修改标注。
-
-欢迎各种语言的翻译 —— 请提交 pull request。请将翻译文件放置到相应的目录之中，文件仍然命名为 README.md，比如
-
-> /en/README.md
->
-> /jp/README.md
-
-**你甚至可以用它做自己的网站！** —— 自己先去买一个域名就好。
-
-在你注册好自己的 github 账户之后，你就可以 Fork 当前这个项目为自己的仓库：
-
-![](images/fork1.png)
-
-Fork 完成之后，点开 Settings
-
-![](images/fork2.png)
-
-往下拉，拉到 GitHub Pages 单元，Source 中选择 ```master branch```：
-
-![](images/fork3.png)
-
-而后在 Custom Domain 中填写你自己的域名（你可以在 [name.com](https://www.name.com/) 上或者[阿里云](https://www.net.cn)上购买域名）：
-
-![](images/fork4.png)
-
-你需要在域名服务商的页面中，为自己的域名添加以下 4 条 A 记录和 1 条 CNAME 记录：
-
-> A 记录：
->
-> * 185.199.108.153
-> * 185.199.109.153
-> * 185.199.110.153
-> * 185.199.111.153
->
-> CNAME
->
-> host: www
->
-> Anser: *your-github-username*.github.io
-
-我的设置如下：
-
-![](images/custom-domain.png)
-
-大功告成！几分钟之后，你就可以看到你自己的域名已经生效了，若是你身边有人想要了解区块链，那么你就可以给他属于你自己的链接了。如果需要修改内容，直接在 GitHub 页面里编辑即可……
-
-注意：原仓库会经常更新，所以，你也要将你的 Fork 保持更新：
-
-```bash
-git clone https://github.com/gitbasictutorial/blockchainlittlebook.com
-cd blockchainlittlebook.com
-git remote add upstream https://github.com/xiaolai/blockchainlittlebook.com
-git pull upstream master
-git push -u origin master
-```
