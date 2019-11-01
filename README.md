@@ -8,7 +8,7 @@
 
 > 本文来源于 [https://blockchainlittlebook.com](https://blockchainlittlebook.com)
 > 
-> [MYKEY Lab](https://mykey.org)删除了原文中涉及到「Mixin」「Mixin Network」「Hengxin Network」等的软广, 并增加了BIHU和MYKEY的硬广:)
+> [MYKEY Lab](https://mykey.org)删除了原文中涉及到「Mixin」「Mixin Network」「Hengxin Network」等软广, 并增加了BIHU和MYKEY的硬广:)
 >
 
 
