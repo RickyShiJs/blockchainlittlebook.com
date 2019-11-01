@@ -8,7 +8,7 @@
 
 > 本文来源于 [https://blockchainlittlebook.com](https://blockchainlittlebook.com)
 > 
-> [MYKEY Lab](https://mykey.org)删除了原文中涉及到「Mixin」「Mixin Network」「Hengxin Network」的软广, 并增加了BIHU和MYKEY的硬广:)
+> [MYKEY Lab](https://mykey.org)删除了原文中涉及到「Mixin」「Mixin Network」「Hengxin Network」等的软广, 并增加了BIHU和MYKEY的硬广:)
 >
 
 
@@ -338,5 +338,5 @@ dPoS（[Delegated Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake#D
 所以，参与有杠杆的合约交易是你个人的选择，但有两个建议很重要：
 
 > 1. 不要只做期货；
-> 2. 选择靠谱的不作恶的交易所，比如 [BTCMEX](https://www.btcmex.com/)……
+> 2. 选择靠谱的不作恶的交易所
 
